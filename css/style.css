@@ -402,7 +402,8 @@ h2.typing::after {
    ============================================= */
 
 .timeline {
-  margin-top: 10px;
+  margin: 10px auto 0;
+  max-width: 620px;
   display: flex;
   flex-direction: column;
   position: relative;
