@@ -618,7 +618,7 @@ h2.typing::after {
   max-width: 640px;
   position: relative;
   overflow: hidden;
-  text-align: left;
+  text-align: center;
 }
 
 .contact-card::before {
@@ -642,6 +642,7 @@ h2.typing::after {
   display: flex;
   gap: 24px;
   margin-top: 24px;
+  justify-content: center;
 }
 
 .contact-links a {
