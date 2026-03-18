@@ -447,6 +447,7 @@ h2.typing::after {
   text-transform: uppercase;
   color: var(--secondary);
   margin-bottom: 8px;
+  text-align: center;
 }
 
 .timeline-content h3 {
@@ -454,13 +455,14 @@ h2.typing::after {
   font-size: 1rem;
   font-weight: 700;
   margin-bottom: 6px;
+  text-align: center;
 }
 
 .timeline-content p {
   color: var(--muted);
   font-size: .9rem;
-  max-width: 520px;
   line-height: 1.75;
+  text-align: center;
 }
 
 /* =============================================
